@@ -1,4 +1,4 @@
 hailingit demo
 =========
 
-创建个人master主分支
+创建dev快速开发主分支
